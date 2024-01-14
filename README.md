@@ -1,1 +1,3 @@
-# THe Amazing Robot
+# The Amazing Robot
+
+Read Final Report.pdf
